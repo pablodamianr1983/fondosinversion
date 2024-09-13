@@ -1,0 +1,8 @@
+body.dark-mode {
+    --bg-color: #111111;
+    --text-color: #ffffff;
+    --border-color: #444444;
+    --button-bg: #444444;
+    --button-hover: #ffffff;
+  }
+  
